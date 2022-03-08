@@ -19,6 +19,7 @@
 - 🤓 I am a technology enthusiast
 - 📚 Self-employed technology student
 - 😎 Focused and determined
+- 😁 Fun and cheerful
 
 <br>
 
