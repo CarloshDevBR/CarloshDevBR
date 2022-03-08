@@ -15,9 +15,10 @@
 
 <br>
 
-#### About me
+#### 😺 About me
 - 🤓 I am a technology enthusiast
 - 📚 Self-employed technology student
+- 😎 Focused and determined
 
 <br>
 
