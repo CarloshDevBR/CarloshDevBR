@@ -81,3 +81,6 @@
 </p>
 
 <h3 align="center">✨ Bye see you next time  ✨</h3>
+  
+![Snake animation](https://github.com/CarloshDevBR/CarloshDevBR/blob/output/github-contribution-grid-snake.svg)
+
