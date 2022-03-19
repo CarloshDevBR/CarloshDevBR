@@ -1,6 +1,4 @@
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=CarloshDevBR&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Rafael Yokoyama" />
-</p>
+
 
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello! Welcome to my profile, I hope you like it.. 🙃 </h1>
