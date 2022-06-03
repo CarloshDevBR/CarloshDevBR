@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello! Welcome to my profile, I hope you like it.. 🙃 </h1>
+  <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello! Welcome to my profile, I hope you like it.. 🙃 </h1>
 </div>
 
 <br>
