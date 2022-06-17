@@ -23,13 +23,6 @@
 - 😎 Focused and determined
 
 <br>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92805039/157177385-a07cda2e-ee05-4a65-818c-293662f55aaf.gif" width="200" height="200" />
-</p>
-
-<br>
-
 <br>
 
 <div align="center">
