@@ -10,17 +10,16 @@
 
 <br>
 
-##### 📚  Studying React
+##### 📚  Full-steam studies
 ##### 🔎  looking for new opportunities...
-##### 😁  Pronouns: ele/dele
-##### 🛠️  Projects in progress..
+##### 😁  focused to become a frontend expert
+##### 🛠️  Projects under development..
 
 <br>
 
 #### 😺 About me
-- 🤓 I am a technology enthusiast
-- 📚 Self-employed technology student
-- 😎 Focused and determined
+- 🤓 I am a Frontend developer with little experience but with a lot of passion in technology, my dream is to become an expert in the field.
+- 📚 Studying often to be the best
 
 <br>
 <br>
@@ -40,7 +39,7 @@
  
 <br>
  
- <h4 align="center">🛠️ Technologies I'm Using and Learning </h4>
+ <h4 align="center">🛠️ Technologies I currently study or work with</h4>
  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -54,6 +53,8 @@
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img alt="Carlos-MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
 
 <br>
