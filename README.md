@@ -26,13 +26,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/CarloshDevBR">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&theme=tokyonight&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
 </div>
