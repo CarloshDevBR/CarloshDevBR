@@ -26,10 +26,15 @@
 
 <div align="center">
 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&theme=tokyonight&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+<div>
+
+<div align="center" style="display: inline_block">
+
+<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="CarloshDevBR GitHub stats" /></a>
 </div>
- 
+
 <br>
  
  <h4 align="center">🛠️ Technologies I currently study or work with</h4>
@@ -73,6 +78,10 @@
 
   <a href="https://www.linkedin.com/in/carlos-henrique-silva-5588bb21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<a href="https://github.com/CarloshDevBR" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 <br>
 
