@@ -48,6 +48,8 @@
   
   <img align="center" alt="Carlos-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   
+  <img align="center" alt="Carlos-Vite" height="30" width="40" src="https://user-images.githubusercontent.com/92805039/192127302-6f1ef978-2e26-4431-af86-41ae92ce64a3.svg" />
+  
   <img align="center" alt="Keycloak" height="40" width="40" src="https://user-images.githubusercontent.com/92805039/188026102-d8950703-991a-46be-9e36-b3c3d32d4df7.svg">
   
   <img align="center" alt="Docker" height="35" width="35" src="https://user-images.githubusercontent.com/92805039/188540843-d58ec1bd-1973-4a72-8307-ef84297e88ca.png" />
