@@ -29,6 +29,8 @@
 
 <br>
 
+<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=true&theme=dracula&layout=compact" /></a>
+
 ![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=true&count_private=true&theme=dracula) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact)
 
