@@ -41,6 +41,6 @@
 ✨ Social networks
 
 <div>
-  <a href="https://www.linkedin.com/in/carlos-henrique-silva-5588bb21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/carlos-henrique-silva-5588bb21b](https://www.linkedin.com/in/carlos-silva-5588bb21b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carloshdevbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
