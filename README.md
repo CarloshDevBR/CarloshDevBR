@@ -25,7 +25,7 @@
 
 ### 🛠️ Technologies I currently study or work with
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,materialui,git,github,figma)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,tailwind,styledcomponents,materialui,git,github,figma)](https://skillicons.dev)
 
 <br>
 
