@@ -35,12 +35,3 @@
 <a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=true&theme=dracula&layout=compact" /></a>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact)
 </div>
-
-<br>
-
-✨ Social networks
-
-<div>
-  <a href="https://www.linkedin.com/in/carlos-silva-5588bb21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carloshdevbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
