@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align='center'>
-  Front-End Developer💡
+  Front-End Developer/Mobile Developer💡
 </h3>
 
 <br>
