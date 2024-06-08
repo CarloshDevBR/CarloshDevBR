@@ -25,7 +25,7 @@
 
 ### 🛠️ Technologies I currently study or work with
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,docker,git,github)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,kotlin,docker,git,github)](https://skillicons.dev)
 
 <br>
 
