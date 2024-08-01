@@ -1,29 +1,15 @@
 <h1 align='center'>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello! Welcome to my profile, I hope you like it.. 🤖
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello! Welcome to my profile. 🤖
   <p align="center">
     <img src="https://user-images.githubusercontent.com/92805039/157175887-86e6dd4e-5855-4796-88bd-798930336fe0.gif"  alt="emoji-dance" />
   </p>
 </h1>
 
 <h3 align='center'>
-  Front-End Developer/Mobile Developer💡
+  Front-End Developer / Mobile Developer
 </h3>
 
-<br>
-
-### 😺 About me
-- ⚙️ I am 22 years old and currently work at Companny do Brasil as a front end programmer
-- 🤓 I'm a tech enthusiast and I've been studying too often to quell this knowledge i have
-- 📚 Always trying to be the best version of myself
-- ❓Curious in game development
-
-## 📝 Goals
-- 🧠 I specialize in front end development
-- 💪 Expand my portfolio with personal projects
-- 💥 Develop complex applications
-- 👨‍💼 Evolve professionally
-
-### 🛠️ Technologies I currently study or work with
+### 🛠️ I work with:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,kotlin,sqlite,docker,git,github)](https://skillicons.dev)
 
