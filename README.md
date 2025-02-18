@@ -11,7 +11,7 @@
 
 ### 🛠️ I work with:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,kotlin,sqlite,androidstudio,docker,git,github)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,kotlin,sqlite,androidstudio,docker,git,github,gitlab)](https://skillicons.dev)
 
 <br>
 
