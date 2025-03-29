@@ -1,23 +1,64 @@
 <h1 align='center'>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello! Welcome to my profile. 🤖
-  <p align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" /> Hello world! Welcome to my profile. 🤖
+  
+  <div align="center">
     <img src="https://user-images.githubusercontent.com/92805039/157175887-86e6dd4e-5855-4796-88bd-798930336fe0.gif"  alt="emoji-dance" />
-  </p>
+  </div>
 </h1>
 
 <h3 align='center'>
   Mobile Developer / Front-End Developer
 </h3>
 
-### 🛠️ I work with:
+### 🚀 My Skills:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jest,kotlin,sqlite,androidstudio,docker,git,github,gitlab)](https://skillicons.dev)
+#### 🌐 Web development
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
-<br>
+#### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%230095D5.svg?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23E34C26.svg?style=for-the-badge&logo=xml&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 📦 Devops and tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23A259FF.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<br />
 
 <div align="center">
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=true&count_private=true&theme=dracula)
-<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=true&theme=dracula&layout=compact" /></a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact)
+![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=false&count_private=true&theme=dark)
+<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=false&theme=dark&layout=compact" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=false&theme=dark&layout=compact)
 </div>
+
+---
+
+### 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitjais312)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carloshdevbr@gmail.com)
