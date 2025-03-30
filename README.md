@@ -24,6 +24,8 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
+#
+
 #### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -32,10 +34,14 @@
 ![XML](https://img.shields.io/badge/XML-%23E34C26.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 
+#
+
 #### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+#
 
 #### 📦 Devops and tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,6 +55,8 @@
 
 <br />
 
+#
+
 <div align="center">
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=false&count_private=true&theme=dark)
@@ -56,8 +64,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=false&theme=dark&layout=compact)
 </div>
 
----
+#
 
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-silva-5588bb21b)
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarloshDevBR/CarloshDevBR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarloshDevBR/CarloshDevBR/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarloshDevBR/CarloshDevBR/output/github-contribution-grid-snake.svg">
+</picture>
