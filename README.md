@@ -55,15 +55,6 @@
 
 #
 
-<div align="center">
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=CarloshDevBR&show_icons=true&hide_border=false&count_private=true&theme=dark)
-<a href="http://www.github.com/CarloshDevBR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarloshDevBR&hide_border=false&theme=dark&layout=compact" /></a>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloshDevBR&langs_count=10&count_private=true&hide_border=false&theme=dark&layout=compact)
-</div>
-
-#
-
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-silva-5588bb21b)
