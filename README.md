@@ -33,6 +33,8 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23E34C26.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge&logo=android&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-FF4081?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #
 
