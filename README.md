@@ -6,10 +6,7 @@
   </div>
 </h1>
 
-<h3 align='center'>
-
-  Mobile Developer / Front-End Developer
-</h3>
+<h3 align='center'>Android Developer</h3>
 
 ### 🚀 My Skills:
 
@@ -21,6 +18,9 @@
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge&logo=android&logoColor=white)
 ![MockK](https://img.shields.io/badge/MockK-FF4081?style=for-the-badge&logo=kotlin&logoColor=white)
+![Turbine](https://img.shields.io/badge/Turbine_(Flow_Testing)-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Koin DI](https://img.shields.io/badge/Koin_DI-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-00599C?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #
 
@@ -31,6 +31,7 @@
 #
 
 #### 📦 Devops and tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
