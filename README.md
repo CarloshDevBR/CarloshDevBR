@@ -10,34 +10,50 @@
 
 ### 🚀 My Skills:
 
-#### 📱 Android Development
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23E34C26.svg?style=for-the-badge&logo=xml&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+#### 📱 Android
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E34C26?style=for-the-badge&logo=xml&logoColor=white)
+
+#
+
+#### 🧪 Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-6F4E37?style=for-the-badge&logo=android&logoColor=white)
 ![MockK](https://img.shields.io/badge/MockK-FF4081?style=for-the-badge&logo=kotlin&logoColor=white)
-![Turbine](https://img.shields.io/badge/Turbine_(Flow_Testing)-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Koin DI](https://img.shields.io/badge/Koin_DI-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-00599C?style=for-the-badge&logo=kotlin&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=openjdk&logoColor=white)
+![Turbine](https://img.shields.io/badge/Turbine-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#
+
+#### 🧩 Dependency Injection
+![Koin](https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#
+
+#### 🧹 Code Quality
+![Detekt](https://img.shields.io/badge/Detekt-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #
 
 #### 🗄️ Database
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #
 
-#### 📦 Devops and tools
+#### ⚙️ DevOps & Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23A259FF.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![ProGuard](https://img.shields.io/badge/ProGuard-F57C00?style=for-the-badge&logo=android&logoColor=white)
+![R8](https://img.shields.io/badge/R8-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 #
 
