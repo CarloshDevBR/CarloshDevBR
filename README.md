@@ -29,7 +29,7 @@
 
 #### 🧩 Dependency Injection
 ![Koin](https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #
 
