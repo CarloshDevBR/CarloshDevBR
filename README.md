@@ -46,6 +46,7 @@
 
 #### ⚙️ DevOps & Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-A259FF?style=for-the-badge&logo=bitrise&logoColor=white)
 ![ProGuard](https://img.shields.io/badge/ProGuard-F57C00?style=for-the-badge&logo=android&logoColor=white)
 ![R8](https://img.shields.io/badge/R8-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
